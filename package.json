@@ -1,0 +1,10 @@
+{
+  "name": "bull-queue-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "selva-bct <selvanathan.v@bahwancybertek.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bull": "^3.20.1"
+  }
+}
