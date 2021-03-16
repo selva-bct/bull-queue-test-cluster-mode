@@ -5,6 +5,7 @@
   "author": "selva-bct <selvanathan.v@bahwancybertek.com>",
   "license": "MIT",
   "dependencies": {
-    "bull": "^3.20.1"
+    "bull": "^3.20.1",
+    "redis": "^3.0.2"
   }
 }
